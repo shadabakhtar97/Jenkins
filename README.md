@@ -45,4 +45,4 @@ Here are the steps to integrate and configure Jenkins master and slave nodes:
    - Monitor the status and workload of your agents through the Jenkins web interface.
    - You can scale your Jenkins environment by adding more agents as needed to distribute the workload.
 
-Remember that Jenkins has a rich ecosystem of plugins and integrations, so you can customize your setup to meet your specific requirements, including support for cloud-based agents. Additionally, please check the Jenkins documentation or community resources for any updates or changes made to Jenkins since my last knowledge update in September 2021, especially regarding terminology and best practices.
+Remember that Jenkins has a rich ecosystem of plugins and integrations, so you can customize your setup to meet your specific requirements, including support for cloud-based agents.
