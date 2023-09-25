@@ -2,7 +2,8 @@
 ### Learn Jenkins Deep Dive by Shadab Akhtar-9148627170
 
 ### Jenkins user details at the time of installation
-![image](https://github.com/shadabakhtar97/Jenkins/assets/43212251/5c3ac44b-855e-469f-897b-3bfe1518b5de)
+![image](https://github.com/shadabakhtar97/Jenkins/assets/43212251/8f252dba-2c0e-4a78-a9ed-a00f66935fd8)
+
 
 
 # Jenkins terminology such as "master" and "slave" nodes was commonly used. Jenkins is a popular open-source automation server that is often used for building, deploying, and automating software development tasks. However, it's worth noting that the Jenkins project has made some changes in terminology to promote more inclusive and neutral language, so you may want to use terms like "controller" and "agent" instead of "master" and "slave." Nevertheless, I'll provide an overview of how Jenkins integration between a master and slave (or controller and agent) works:
